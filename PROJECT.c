@@ -1,3 +1,6 @@
+/*PROBLEM STATEMENT:
+ STOCK MARKET ANALYSER (To achieve max profit within our budget and risk factor)
+*/
 #include <stdio.h>
 #include <string.h>
 
